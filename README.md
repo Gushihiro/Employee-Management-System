@@ -1,5 +1,5 @@
 # Team-Profile-Generator Readme
-[![License: BSD](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 Team-Profile-Generator asks a few questions pertaining to team composition then generates an html page displaying the members of the team with positions and information pertaining
 ## Table of Contents
