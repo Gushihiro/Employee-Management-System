@@ -202,7 +202,7 @@ function generateIntern() {
             <ul>
                 <li>ID: ${internArray[i].id}</li>
                 <li>Email: ${internArray[i].email}</li>
-                <li>Office Number: ${internArray[i].school}</li>
+                <li>School: ${internArray[i].school}</li>
             </ul>
         </div>
     </card>
